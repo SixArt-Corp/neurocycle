@@ -8,6 +8,7 @@ As an enabling technology proposal, we developed NEURO-CYCLE, an autonomous and 
 2. [Stages of development](#stagesofdevelopment)
 3. [Experimental Solution](#experimentalsolution)
 4. [Estimated Cost](#estimatedcost)
+5. [Website](https://sixart-corp.github.io/neurocycle/)
 ---
 
 ## 🧠 Description
@@ -50,3 +51,8 @@ https://v0-recycling-dashboard.vercel.app/
 - Based on waste projections from extended Mars missions, the NEURO-CYCLE could process and repurpose up to 65–75% of total mission waste, significantly lowering environmental impact while providing essential construction materials.
 - By merging automation, AI, circular economy principles, and in-situ resource utilization, the NEURO-CYCLE transforms waste management into a productive cycle supporting long-term human presence on Mars while redefining sustainability in space exploration.
 ---
+
+## Website
+```bash
+https://sixart-corp.github.io/neurocycle/
+```
