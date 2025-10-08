@@ -7,13 +7,7 @@ As an enabling technology proposal, we developed NEURO-CYCLE, an autonomous and 
 1. [Description](#description)
 2. [Stages of development](#stagesofdevelopment)
 3. [Experimental Solution](#experimentalsolution)
-6. [Estructura del proyecto](#estructura-del-proyecto)
-7. [Demostración](#demostración)
-8. [Contribuciones](#contribuciones)
-9. [Licencia](#licencia)
-10. [Autores](#autores)
-11. [Agradecimientos](#agradecimientos)
-
+4. [Estimated](#estimatedcost)
 ---
 
 ## 🧠 Description
@@ -56,14 +50,3 @@ https://v0-recycling-dashboard.vercel.app/
 - Based on waste projections from extended Mars missions, the NEURO-CYCLE could process and repurpose up to 65–75% of total mission waste, significantly lowering environmental impact while providing essential construction materials.
 - By merging automation, AI, circular economy principles, and in-situ resource utilization, the NEURO-CYCLE transforms waste management into a productive cycle supporting long-term human presence on Mars while redefining sustainability in space exploration.
 ---
-
-## 🚀 Instalation
-```bash
-# Clone GitHub repository
-git clone https://github.com/usuario/nombre-del-proyecto.git
-
-# Move to the project
-cd 
-
-# Instalar dependencias (si aplica)
-npm install
