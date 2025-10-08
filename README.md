@@ -7,7 +7,7 @@ As an enabling technology proposal, we developed NEURO-CYCLE, an autonomous and 
 1. [Description](#description)
 2. [Stages of development](#stagesofdevelopment)
 3. [Experimental Solution](#experimentalsolution)
-4. [Estimated](#estimatedcost)
+4. [Estimated Cost](#estimatedcost)
 ---
 
 ## 🧠 Description
